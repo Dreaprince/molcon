@@ -9,3 +9,5 @@
 {"level":"info","message":"Connected to mongodb://localhost/molcon...","timestamp":"2021-12-04T10:34:51.253Z"}
 {"level":"info","message":"Listening on port 3900...","timestamp":"2021-12-04T15:07:59.764Z"}
 {"level":"info","message":"Connected to mongodb://localhost/molcon...","timestamp":"2021-12-04T15:07:59.876Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2021-12-04T18:09:03.157Z"}
+{"level":"info","message":"Connected to mongodb://localhost/molcon...","timestamp":"2021-12-04T18:09:03.264Z"}
